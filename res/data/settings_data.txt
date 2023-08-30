@@ -1,0 +1,2 @@
+Notification Sound: Small Tune
+Background Color: #CCCCCC

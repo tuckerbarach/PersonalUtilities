@@ -1,0 +1,18 @@
+ID: 0
+Title: Set up Python Calendar
+Description: try to use the thing mr beckwith showed me
+Priority: 1
+Color: #3300FF
+Time End: 6/13/2020 18:40:00
+ID: 1
+Title: Work on passwords and emails
+Description: get a basic res/data setup
+Priority: 1
+Color: #006666
+Time End: 6/16/2020 12:00:00
+ID: 2
+Title: testing2
+Description: dafs
+Priority: 1
+Color: #66FF66
+Time End: 6/15/2020 10:35:00

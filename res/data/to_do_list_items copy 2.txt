@@ -1,0 +1,36 @@
+ID: 0
+Title: Add edits for priority, color, timer
+Description: Make sure that the color can be translated into a Color class
+Priority: 1
+Color: #0000FF
+Time End: 01/1/2021 00:00:00
+ID: 1
+Title: Add the option to remove an item
+Description: Reduce the ID of items further in the TODO List for future reloads
+Priority: 1
+Color: #0000FF
+Time End: 01/1/2021 00:00:00
+ID: 1
+Title: Fix color panel going in the right place
+Description: self explainable
+Priority: 1
+Color: #0000FF
+Time End: 01/1/2021 00:00:00
+ID: 2
+Title: Redo the select a time menu
+Description: make everything in one JFrame
+Priority: 1
+Color: #0000FF
+Time End: 01/1/2021 00:00:00
+ID: 3
+Title: Add a notification on desktop when a timer is done
+Description: Hopefully this is possible
+Priority: 1
+Color: #0000FF
+Time End: 01/1/2021 00:00:00
+ID: 5
+Title: Add an archived TODO list items .txt file
+Description: Everytime something is removed, add it to that file
+Priority: 1
+Color: #0000FF
+Time End: 01/1/2021 00:00:00
