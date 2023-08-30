@@ -4,7 +4,7 @@
 A Java application meant for desktop use that combines a to-do list, reminders, and a calendar all in one space.
 
 <b>Motivation</b><br>
-This project was my final project for an Advanced Java class I took in my Junior year of high school (age 16) with the purpose of helping myself be more efficient in the future by utilizing my very own application.
+This project was my final project for an Advanced Java class I took in my Junior year of high school (age 17) with the purpose of helping myself be more efficient in the future by utilizing my very own application.
 
 <b>Build Status</b><br>
 Personal Utilities is nearly complete, with just one key feature missing. I intended to make the Calendar feature of the application link with your Google Calendar. However, I could not get the Google API to link up properly. Additionally, the timer feature may incorrectly countdown and thus be inaccurate.
